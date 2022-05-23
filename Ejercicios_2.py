@@ -28,8 +28,18 @@ unicos = []
 listado_pares_e_impares= [22, 32, 42, 13, 35, 13, 6, 42, 13, 25, 28, 15, 14, 
 30, 42, 32, 46, 0, 47, 46]
 
+# Encontrar si en un listado dos números hacen la sumatoria 42. Devolver todos los 
+# Pares de números en una lista
 
 
+listado_suma_42 = [3, 94, 20, 22, 33, 9, 33, 12, 5, 11, 31]
+
+
+# HARD: Definir una función que diga si una palabra es palíndrome o no.
+# Devolvera lo siguiente: La palabra {nombre palabra} {es / no es} palíndrome.
+
+def palindrome(string: str)->str:
+    pass
 
 
 
